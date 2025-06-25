@@ -1,0 +1,27 @@
+student_name,email,topic,explanation,date,voice_url,tags,clarity,review_status,id
+Rohan,rohan@example.com,Motion,This is a brief explanation of motion by Rohan.,2025-06-05,https://audio.example.com/submission_1.mp3,Conceptual,3,Reviewed,1
+Zara,zara@example.com,Waves,This is a brief explanation of waves by Zara.,2025-06-15,https://audio.example.com/submission_2.mp3,Physics,3,Reviewed,2
+Rohan,rohan@example.com,Light,This is a brief explanation of light by Rohan.,6/1/2025,https://audio.example.com/submission_3.mp3,Conceptual,1,Reviewed,3
+Rohan,rohan@example.com,Light,This is a brief explanation of light by Rohan.,6/17/2025,https://audio.example.com/submission_4.mp3,,,Pending,4
+Rohan,rohan@example.com,Energy,This is a brief explanation of energy by Rohan.,6/5/2025,https://audio.example.com/submission_5.mp3,Needs Review,5,Reviewed,5
+Omar,omar@example.com,Magnetism,This is a brief explanation of magnetism by Omar.,6/14/2025,https://audio.example.com/submission_6.mp3,,,Pending,6
+Sarah,sarah@example.com,Light,This is a brief explanation of light by Sarah.,6/20/2025,https://audio.example.com/submission_7.mp3,,,Pending,7
+Tanya,tanya@example.com,Energy,This is a brief explanation of energy by Tanya.,6/17/2025,https://audio.example.com/submission_8.mp3,,,Pending,8
+Omar,omar@example.com,Waves,This is a brief explanation of waves by Omar.,6/7/2025,https://audio.example.com/submission_9.mp3,,,Pending,9
+Sarah,sarah@example.com,Energy,This is a brief explanation of energy by Sarah.,6/8/2025,https://audio.example.com/submission_10.mp3,,,Pending,10
+Zara,zara@example.com,Energy,This is a brief explanation of energy by Zara.,6/16/2025,https://audio.example.com/submission_11.mp3,Needs Review,2,Reviewed,11
+Sarah,sarah@example.com,Gravity,This is a brief explanation of gravity by Sarah.,6/4/2025,https://audio.example.com/submission_12.mp3,Clear,5,Reviewed,12
+Mahi,mahi@example.com,Light,This is a brief explanation of light by Mahi.,6/17/2025,https://audio.example.com/submission_13.mp3,Confusing,1,Reviewed,13
+Mahi,mahi@example.com,Motion,This is a brief explanation of motion by Mahi.,6/13/2025,https://audio.example.com/submission_14.mp3,Physics,5,Reviewed,14
+Omar,omar@example.com,Gravity,This is a brief explanation of gravity by Omar.,6/3/2025,https://audio.example.com/submission_15.mp3,Physics,2,Reviewed,15
+Omar,omar@example.com,Gravity,This is a brief explanation of gravity by Omar.,6/16/2025,https://audio.example.com/submission_16.mp3,,,Pending,16
+Rohan,rohan@example.com,Motion,This is a brief explanation of motion by Rohan.,2025-06-20,https://audio.example.com/submission_17.mp3,,,Pending,17
+Zara,zara@example.com,Gravity,This is a brief explanation of gravity by Zara.,6/1/2025,https://audio.example.com/submission_18.mp3,Needs Review,2,Reviewed,18
+Abid,abid@example.com,Motion,This is a brief explanation of motion by Abid.,6/2/2025,https://audio.example.com/submission_19.mp3,Conceptual,1,Reviewed,19
+Tanya,tanya@example.com,Magnetism,This is a brief explanation of magnetism by Tanya.,6/19/2025,https://audio.example.com/submission_20.mp3,Clear,4,Reviewed,20
+Talha,talha@gmail.com,Math,pythagoras theorem,2025-06-25T15:55:59.635+0600,,GOOD,5,Reviewed,21
+Sumon,sumon@gmail.com,CSE,Data ,2025-06-24,,,,Pending,22
+Sumon,sumon@gmail.com,CSE,Data,2025-06-24,,,,Pending,23
+Sumon,sumon@gmail.com,CSE,Data,2025-06-24,,,,Pending,24
+Sumon,sumon@gmail.com,CSE,Data,2025-06-25T16:16:55.570+0600,,,,Pending,25
+Sumon,sumon@gmail.com,CSE,Data,2025-06-25T16:44:33.803+0600,https://audio.example.com/submission_1.mp3,,,Pending,26
